@@ -1,0 +1,1 @@
+Select * From v_AttendanceByBU
